@@ -1,3 +1,3 @@
 # test_2
 
-commit form github
+commit form github direct
